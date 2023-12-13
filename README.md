@@ -1,4 +1,4 @@
-<h1 align="center">PROYECTO PYGAME 2023</h1>
+<h1 align="center">PROYECTO BONE GAME 2023</h1>
 
 <p>Hola, mi nombre es Franco Achinelli. Actualmente estoy trabajando en un videojuego que es mi proyecto final de Laboratorio 1. Es un juego de plataformas y enemigos similar al juego Mario, ya que me inspiré en él.</p>
 
